@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anik Islam
+- 👋 I’m Anik Islam
 - 👀 I’m interested in web development,machine learning
 
 
