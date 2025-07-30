@@ -1,10 +1,14 @@
-- 👋 I’m Anik Islam
-- 👀 I’m interested in web development,machine learning
-
-
-
-
-<!---
-anikislam104/anikislam104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# I am Anik Islam Pantha
+### :briefcase:I am a C++ Software Engineer at [CodeCrafters International Ltd](https://codecraftersintl.com/).
+### :microscope:I am a Researcher in the domain of Machine Learning and CyberSecurity.
+### :books:I have graduated from Computer Science and Engineering(CSE) department of Bangladesh University of Engineering and Technology(BUET)
+### :heart:I love to 
+- Research on CS problems
+- Learn new algorithms
+- Write softwares
+- Code complex logics and architectures
+- Track bugs and design solution
+- Discuss random CS or math topics
+### :computer:[Visit my website](https://anikislam104.github.io/AIP---personal-website/)
+### :scroll:[Here's my CV](https://drive.google.com/file/d/1fK8kZSXn0eT5z_i54OtcD0GCpgzcXr_1/view?usp=sharing)
+### :white_check_mark:If you wanna discuss CS stuffs, [let's connect](https://www.linkedin.com/in/anik-islam-pantha/)
