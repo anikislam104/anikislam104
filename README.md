@@ -1,7 +1,7 @@
 # I am Anik Islam Pantha
 ### :briefcase:I am a C++ Software Engineer at [CodeCrafters International Ltd](https://codecraftersintl.com/).
 ### :microscope:I am a Researcher in the domain of Machine Learning and CyberSecurity.
-### :microscope: Research interests lie Machine Learning, Software Engineering, CyberSecurity, and also in the intersection of these domains.
+### :microscope: Research interests lie in Machine Learning, Software Engineering, CyberSecurity, and also in the intersection of these domains.
 ### :books:I have graduated from Computer Science and Engineering(CSE) department of Bangladesh University of Engineering and Technology(BUET)
 ### :heart:I love to 
 - Research on CS problems
