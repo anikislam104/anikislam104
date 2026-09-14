@@ -1,5 +1,5 @@
 # I am Anik Islam Pantha
-### :books: I am an incoming MASc student at York University.
+### :books: I am an MASc student at York University.
 ### :briefcase:I worked as a C++ Software Engineer at [CodeCrafters International Ltd](https://codecraftersintl.com/) for 3 years.
 ### :microscope:I am a Researcher in the domain of Machine Learning and CyberSecurity.
 ### :microscope: Research interests lie in Machine Learning, Software Engineering, CyberSecurity, and also in the intersection of these domains.
