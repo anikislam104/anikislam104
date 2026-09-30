@@ -12,5 +12,5 @@
 - Track bugs and design solution
 - Discuss random CS or math topics
 ### :computer:[Visit my website](https://anikislam104.github.io/AIP---personal-website/)
-### :scroll:[Here's my CV](https://drive.google.com/file/d/1hLNkYpYzMhEP5Fk05VEKgQ47IacWkMTb/view?usp=drive_link)
+### :scroll:[Here's my CV](https://drive.google.com/file/d/1ro6DK3w8Ul1yD41jfbQ7OczN6M0-5UiO/view?usp=sharing)
 ### :white_check_mark:If you wanna discuss CS stuffs, [let's connect](https://www.linkedin.com/in/anik-islam-pantha/)
